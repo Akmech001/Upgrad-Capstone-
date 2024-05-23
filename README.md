@@ -14,24 +14,7 @@ This project aims to detect fraudulent credit card transactions using various ma
 ## Installation
 To run this project, follow these steps:
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/CreditCardFraudDetection.git
-    cd CreditCardFraudDetection
-    ```
-
-2. **Create a virtual environment:**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. **Install the required packages:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Download the dataset:**
+1. **Download the dataset:**
     Download the `creditcard.csv` dataset and place it in the root directory of the project.
 
 ## Usage
